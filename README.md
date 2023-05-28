@@ -8,12 +8,12 @@ you find!
 
 ## 2023 Programs
 
-| Name and Link                                                                                                   | Location  | Organiser              | Dates (dd/mm) | Deadline (dd/mm) | Fee       | Notes       |
+| Name and Link                                                                                                   | Location  | Organiser              | Dates (mm/dd) | Deadline (mm/dd) | Fee       | Notes       |
 |-----------------------------------------------------------------------------------------------------------------|-----------|------------------------|---------------|------------------|-----------|-------------|
-| [Neuromatch Academy - Computational Neuroscience](https://academy.neuromatch.io/courses)                        | Online    | Neuromatch Academy     | 10/07 - 28/07 | 08/05            | varies    | Comp. Neuro |
-| [BCI Society - Workshops](https://bcisociety.org/workshops/)                                                    | Brussels  | BCI Society            | 7/06 - 09/06  |                  | varies    |             |
-| [UNIQUE Student Symposium 2023](https://www.eventbrite.ca/e/unique-student-symposium-2023-tickets-616558853127) | Montreal  | Université de Montréal | 5/06 - 6/06   |                  | 20 CAD    | NeuroAI     |
-| [BCI & NEUROTECHNOLOGY SPRING SCHOOL 2023](https://www.gtec.at/spring-school-2023/)                             | Vienna    | G.Tech                 | 17/04 - 26/04 | Passed           |           |             |
-| [IBRO-Simons Computational Neuroscience Imbizo](http://imbizo.africa)                                           | Cape Town | IBRO-Simons            | 13/04 - 7/05  | Passed           | 1200 Euro | Comp. Neuro |
+| [Neuromatch Academy - Computational Neuroscience](https://academy.neuromatch.io/courses)                        | Online    | Neuromatch Academy     | 07/10 - 07/28 | 05/08            | varies    | Comp. Neuro |
+| [BCI Society - Workshops](https://bcisociety.org/workshops/)                                                    | Brussels  | BCI Society            | 06/07 - 06/09 |                  | varies    |             |
+| [UNIQUE Student Symposium 2023](https://www.eventbrite.ca/e/unique-student-symposium-2023-tickets-616558853127) | Montreal  | Université de Montréal | 06/05 - 06/06 |                  | 20 CAD    | NeuroAI     |
+| [BCI & NEUROTECHNOLOGY SPRING SCHOOL 2023](https://www.gtec.at/spring-school-2023/)                             | Vienna    | G.Tech                 | 04/17 - 04/26 | Passed           |           |             |
+| [IBRO-Simons Computational Neuroscience Imbizo](http://imbizo.africa)                                           | Cape Town | IBRO-Simons            | 04/13 - 05/07 | Passed           | 1200 Euro | Comp. Neuro |
 
 *programs should be in reverse chronological order*
