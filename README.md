@@ -28,4 +28,4 @@ you find!
 | [IBRO-Simons Computational Neuroscience Imbizo](http://imbizo.africa)                                                                                                         | Cape Town       | IBRO-Simons            | 04/13 - 05/07 |                  | 1200 EURO  | Comp. Neuro                |
 | [Neuro-vascular function in health and disease](https://cajal-training.org/on-site/neuro-vascular/)                                                                           | Bordeaux        | CAJAL                  | 03/20 - 04/07 | 11/14            | 3,950 EURO | Incl. accommodation+meal   |
 
-*programs should be in reverse chronological order*
+*programs should be in reverse chronological order according to start date*
