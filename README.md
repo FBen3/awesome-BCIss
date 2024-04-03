@@ -1,4 +1,4 @@
-# Awesome Summer Schools for Brain-computer interfaces and Neurotechnology 
+# Awesome Summer Schools & Programs for Brain-Computer Interfaces and Neurotechnology 
 
 Inspired by the amazing [awesome-mlss](https://github.com/sshkhr/awesome-mlss) repository, this is meant to be a 
 collection of summer schools and courses offered globally.
