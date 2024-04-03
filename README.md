@@ -10,9 +10,9 @@ you find!
 
 ## 2024 Programs
 
-| Name and Link | Location (city) | Organiser | Dates (mm/dd) | Deadline (mm/dd) | Application Fee | Notes |
-|---------------|-----------------|-----------|---------------|------------------|-----------------|-------|
-| A             | A               | A         | A             | A                | A               | A     |
+| Name and Link                                                                                               | Location (city) | Organiser          | Dates (dd/mm) | Deadline (dd/mm) | Application Fee | Notes             |
+|-------------------------------------------------------------------------------------------------------------|-----------------|--------------------|---------------|------------------|-----------------|-------------------|
+| [Neuromatch Academy - Computational Neuroscience](https://neuromatch.io/computational-neuroscience-course/) | Online          | Neuromatch Academy | 08/07 - 26/07 | 25/03            | varies          | multidisciplinary |
 
 *programs should be in reverse chronological order according to start date*
 
