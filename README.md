@@ -10,9 +10,14 @@ you find!
 
 ## 2024 Programs
 
-| Name and Link                                                                                               | Location (city) | Organiser          | Dates (dd/mm) | Deadline (dd/mm) | Application Fee | Notes             |
-|-------------------------------------------------------------------------------------------------------------|-----------------|--------------------|---------------|------------------|-----------------|-------------------|
-| [Neuromatch Academy - Computational Neuroscience](https://neuromatch.io/computational-neuroscience-course/) | Online          | Neuromatch Academy | 08/07 - 26/07 | 25/03            | varies          | multidisciplinary |
+| Name and Link                                                                                                                                                                         | Location (city) | Organiser                  | Dates (dd/mm) | Deadline (dd/mm) | Application Fee | Notes              |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------------------|---------------|------------------|-----------------|--------------------|
+| [B-Cratos Summer School](https://www.b-cratos.eu/b-cratos-summer-school-in-trondheim/)                                                                                                | TBA             | B-Cratos                   | TBA           | TBA              | ???             | postponed          |
+| [FENS – Chen Institute – NeuroLéman Summer School](https://www.fens.org/news-activities/fens-and-societies-calendar/training-event/fens-chen-institute-neuroleman-summer-school-2024) | Lausanne        | The University of Lausanne | 25/08 - 31/08 | 16/04            | ???             | multidisciplinary  |
+| [Brains, Minds & Machines Summer Course](https://cbmm.mit.edu/summer-school/2024)                                                                                                     | Massachusetts   | Centre for BMM             | 04/08 - 25/08 | 25/03            | ???             | popular            |
+| [Neuromatch Academy - Computational Neuroscience](https://neuromatch.io/computational-neuroscience-course/)                                                                           | Online          | Neuromatch Academy         | 08/07 - 26/07 | 25/03            | varies          | multidisciplinary  |
+| [Introduction to Brain-Computer Interfaces](https://ep.jhu.edu/courses/585783-introduction-to-brain-computer-interfaces/)                                                             | Online          | John Hopkins University    | 28/05 - 22/08 | no deadline      | 5,270 USD       | US candidates only |
+| [BCI & Neurotechnology Spring School](https://www.gtec.at/spring-school-2024/)                                                                                                        | Vienna          | g.tech                     | 22/04 - 01/05 | ???              | ???             | hands-on           |
 
 *programs should be in reverse chronological order according to start date*
 
