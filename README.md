@@ -9,18 +9,14 @@ you find!
 [**Previous year schedules**](#archived)
 
 
-## 2024 Programs
+## 2025 Programs
 
-| Name                                                                                                                                                                                  | Location (city) | Organizer                  | Dates (dd/mm) | Deadline (dd/mm) | Price     | Notes              |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------------------|---------------|------------------|-----------|--------------------|
-| [B-Cratos Summer School](https://www.b-cratos.eu/b-cratos-summer-school-in-trondheim/)                                                                                                | TBA             | B-Cratos                   | TBA           | TBA              | ???       | postponed          |
-| [FENS – Chen Institute – NeuroLéman Summer School](https://www.fens.org/news-activities/fens-and-societies-calendar/training-event/fens-chen-institute-neuroleman-summer-school-2024) | Lausanne        | The University of Lausanne | 25/08 - 31/08 | 16/04            | ???       | multidisciplinary  |
-| [Brains, Minds & Machines Summer Course](https://cbmm.mit.edu/summer-school/2024)                                                                                                     | Massachusetts   | Centre for BMM             | 04/08 - 25/08 | 25/03            | ???       | popular            |
-| [Neurotechnology Summer Course](https://cursosveranoucm.com/cursos/72307-2/)                                                                                                          | Madrid          | University of Madrid       | 10/07 - 12/07 | ???              | 200 Euro  | course in Spanish  |
-| [Neuromatch Academy - Computational Neuroscience](https://neuromatch.io/computational-neuroscience-course/)                                                                           | Online          | Neuromatch Academy         | 08/07 - 26/07 | 25/03            | varies    | multidisciplinary  |
-| [Hybrid Neural Interfaces Summer School](https://www.hybridneuro.feri.um.si/summerschools/HNI2024.html)                                                                               | Maribor         | University of Maribor      | 08/07 - 12/07 | ???              | FREE      | hdEMG              |
-| [Introduction to Brain-Computer Interfaces](https://ep.jhu.edu/courses/585783-introduction-to-brain-computer-interfaces/)                                                             | Online          | John Hopkins University    | 28/05 - 22/08 | no deadline      | 5,270 USD | US candidates only |
-| [BCI & Neurotechnology Spring School](https://www.gtec.at/spring-school-2024/)                                                                                                        | Vienna          | g.tech                     | 22/04 - 01/05 | ???              | ???       | hands-on           |
+| Name                                                                                                                                      | Location (city)           | Organizer                    | Dates (dd/mm) | Deadline (dd/mm) | Price  | Notes                                                                                                              |
+|:------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------|:-----------------------------|:--------------|:-----------------|:-------|:-------------------------------------------------------------------------------------------------------------------|
+| [Brains, Minds and Machines](https://www.mbl.edu/education/advanced-research-training-courses/course-offerings/brains-minds-and-machines) | Woods Hole, Massachusetts | Marine Biological Laboratory | 03/08 - 24/08 | March 24         | Free   | All costs (tuition/room and board) are provided                                                                    |
+| [Summer School in Brain Disorders Research](https://www.cardiff.ac.uk/centre-neuropsychiatric-genetics-genomics/study/summer-school)      | Cardiff                   | Cardiff University           | 14/07 - 17/07 | June 8           | Free   | Aimed at clinical trainees (Foundation, Core, Specialty Training) and non-clinical scientists (MSc, PhD, Post Doc) |
+| [NeuroAI Summer Course](https://neuromatch.io/neuroai-course/)                                                                            | Online                    | Neuromatch Academy           | 14/07 - 25/07 | March 23         | Varies |                                                                                                                    |
+| [Computational Neuroscience Summer Course](https://neuromatch.io/computational-neuroscience-course/)                                      | Online                    | Neuromatch Academy           | 07/07 - 25/07 | March 23         | Varies |                                                                                                                    |
 
 *programs should be in reverse chronological order according to start date*
 
@@ -62,5 +58,21 @@ you find!
   | [BCI & NEUROTECHNOLOGY SPRING SCHOOL 2023](https://www.gtec.at/spring-school-2023/)                                                                                           | Vienna          | G.Tech                 | 04/17 - 04/26 |                  |             |                            |
   | [IBRO-Simons Computational Neuroscience Imbizo](http://imbizo.africa)                                                                                                         | Cape Town       | IBRO-Simons            | 04/13 - 05/07 |                  | 1,200 EURO  | Comp. Neuro                |
   | [Neuro-vascular function in health and disease](https://cajal-training.org/on-site/neuro-vascular/)                                                                           | Bordeaux        | CAJAL                  | 03/20 - 04/07 | 11/14            | 3,950 EURO  | Incl. accommodation+meal   |
+
+  </details>
+
+- <details>
+    <summary>2024 Programs</summary>
+  
+  | Name                                                                                                                                                                                  | Location (city) | Organizer                  | Dates (dd/mm) | Deadline (dd/mm) | Price     | Notes              |
+  |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------------------|---------------|------------------|-----------|--------------------|
+  | [B-Cratos Summer School](https://www.b-cratos.eu/b-cratos-summer-school-in-trondheim/)                                                                                                | TBA             | B-Cratos                   | TBA           | TBA              | ???       | postponed          |
+  | [FENS – Chen Institute – NeuroLéman Summer School](https://www.fens.org/news-activities/fens-and-societies-calendar/training-event/fens-chen-institute-neuroleman-summer-school-2024) | Lausanne        | The University of Lausanne | 25/08 - 31/08 | 16/04            | ???       | multidisciplinary  |
+  | [Brains, Minds & Machines Summer Course](https://cbmm.mit.edu/summer-school/2024)                                                                                                     | Massachusetts   | Centre for BMM             | 04/08 - 25/08 | 25/03            | ???       | popular            |
+  | [Neurotechnology Summer Course](https://cursosveranoucm.com/cursos/72307-2/)                                                                                                          | Madrid          | University of Madrid       | 10/07 - 12/07 | ???              | 200 Euro  | course in Spanish  |
+  | [Neuromatch Academy - Computational Neuroscience](https://neuromatch.io/computational-neuroscience-course/)                                                                           | Online          | Neuromatch Academy         | 08/07 - 26/07 | 25/03            | varies    | multidisciplinary  |
+  | [Hybrid Neural Interfaces Summer School](https://www.hybridneuro.feri.um.si/summerschools/HNI2024.html)                                                                               | Maribor         | University of Maribor      | 08/07 - 12/07 | ???              | FREE      | hdEMG              |
+  | [Introduction to Brain-Computer Interfaces](https://ep.jhu.edu/courses/585783-introduction-to-brain-computer-interfaces/)                                                             | Online          | John Hopkins University    | 28/05 - 22/08 | no deadline      | 5,270 USD | US candidates only |
+  | [BCI & Neurotechnology Spring School](https://www.gtec.at/spring-school-2024/)                                                                                                        | Vienna          | g.tech                     | 22/04 - 01/05 | ???              | ???       | hands-on           |
 
   </details>
