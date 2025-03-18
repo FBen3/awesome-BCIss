@@ -3,7 +3,7 @@
 Inspired by the amazing [awesome-mlss](https://github.com/sshkhr/awesome-mlss) repository, this is meant to be a 
 collection of summer schools and courses offered globally.
 
-**Community call for 2024 contributions**: Please open a pull requests for any summer schools or online courses
+**Community call for 2025 contributions**: Please open a pull requests for any summer schools or online courses
 you find!
 
 [**Previous year schedules**](#archived)
